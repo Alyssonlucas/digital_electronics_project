@@ -4,10 +4,11 @@ I'm a Digital Electronics teaching assistant at the Federal University of Pernam
 This repository contains study materials, review notes, and practical projects related to Digital Electronics.
 
 Contents include:
+
 - Concept explanations
 - Study guides
-- Practical examples
-- Digital circuit projects
+- Practical examples 
+- Digital circuit projects with FPGA Cyclone IV 
 
 This repository was created to support students in learning and practicing Digital Electronics concepts.
 
