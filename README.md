@@ -1,4 +1,4 @@
-#Hello! 
+# Hello! 
 
 I'm a Digital Electronics teaching assistant at the Federal University of Pernambuco (UFPE).  
 This repository contains study materials, review notes, and practical projects related to Digital Electronics.
